@@ -13,6 +13,9 @@ cppw  # cppw='c++ -Wall -Wextra -Werror -std=c++98': alias subcribe
 * cin.cpp, cerr.cpp, fstream.cpp
 * getline.cpp
 * class_circle.cpp
+* this_pointer.cpp
+* capitalizeString_c98.cpp
+* capitalizeString_c14.cpp
 
 
 ## Topic
